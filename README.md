@@ -15,9 +15,9 @@
 
 ## 목차
 
-- 용어 목록
-- 간단 실습
-- 로드맵
+- [용어 목록](terminologies/index.md)
+- [간단 실습](practices/index.md)
+- [로드맵](roadmap/index.md)
 
 ## 기여
 
